@@ -1,0 +1,4 @@
+name:    linear-logic
+depend:  agda-prelude
+         standard-library
+include: src
